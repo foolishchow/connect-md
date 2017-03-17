@@ -10,7 +10,10 @@ view markdow files in browser with connect.js in a specify url ext
 |baseDir|the basepath of your md files|'./md/'| 
 |ext| you special url ext |'.md'|
 
-to visit `/foler/README.md` just use '/folder' 
+to visit `/foler/README.md` just use `/folder`
+
+#### test
+just clone this and run `npm run test`
 
 > useage
 
